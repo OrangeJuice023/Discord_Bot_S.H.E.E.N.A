@@ -1,5 +1,5 @@
 # Discord_Bot_S.H.E.E.N.A
-This is the my first ever programming project.
+This is my first ever programming project.
 
 
 Notes:
